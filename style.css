@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+  background-color: #D47750;
+}
+
+#wrapper {
+	max-width: 500px;
+	margin: auto;
+	text-align: center;
+}
+
+#content {
+    max-width: 500px;
+    margin: auto;
+	margin-top: 100px;
+	padding: 20px;
+	background-color:#FFFDE9;
+	border-radius: 25px;
+}
+
+#response {
+	color: #82CA9C;
+	font-family:Courier,serif;
+	background-color: #FFF;
+	border-radius: 25px;
+	box-shadow: 10px 10px 5px #FFE6CB;
+	padding:20px;
+}
+
+/* Keeps my illustration centered */
+img {
+	margin:auto;
+	display:block;
+	width:100%;
+}
+
+/* Styles for the Try Again button */
+input[type=button] {
+	background-color:#82CA9C;
+	font-family: Courier, serif;
+	font-weight:bold;
+	font-size:20px;
+	color: #FFFDE9;
+	padding:10px;
+	margin:40px;
+	border-radius: 10px;
+	border:none;
+	box-shadow: 3px 3px 1px #C16242;
+}
+
+
