@@ -1,2 +1,2 @@
 # Galvanize_Portfolio
-Standard 1 Project
+Rob Toombs' Standard 1 web project. A simple site that asks the user their age before loading, followed by a greeting.
